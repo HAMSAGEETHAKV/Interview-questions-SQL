@@ -1,0 +1,70 @@
+What is a cloud computing?
+Cloud computing refers to the practice of accessing and storing data and applications over the internet rather than on local devices or servers. It offers scalability, flexibility, and cost efficiency by allowing users to pay for resources as needed. Services are categorized into Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Cloud computing reduces the need for on-site hardware maintenance and enables remote collaboration. 
+Security and data privacy considerations are crucial when adopting cloud solutions.
+-----------
+
+What are all the services you are aware about cloud computing?
+Infrastructure as a Service (IaaS)
+Platform as a Service (PaaS)
+Software as a Service (SaaS)
+Function as a Service (FaaS)
+Container as a Service (Caas)
+Database as a Service (DBaaS)
+Backup as a Service (BaaS)
+Security as a Service (SECaaS)
+IoT (Internet of Things) as a Service
+Desktop as a Service (DaaS)
+Monitoring as a Service (MaaS)
+Network as a Service (NaaS)
+------------
+
+What is the major difference between server and serverless computing?
+Server computing involves managing and maintaining physical or virtual servers to host applications. In contrast, serverless computing abstracts server management, allowing developers to focus solely on code. It automatically scales resources based on demand and charges based on actual usage, reducing operational overhead.
+-------------
+
+Give an example for SAAS 
+An example of Software as a Service (SaaS) is "Salesforce," a cloud-based customer relationship management (CRM) platform. Users access Salesforce's software application over the internet, eliminating the need for installation or local hosting. They can manage customer data, track sales, and collaborate on a centralized platform, all while benefiting from automatic updates and maintenance provided by the SaaS provider.
+--------------
+
+What is the major difference between Azure and AWS
+Azure is Microsoft's cloud computing platform, integrating well with Microsoft products, while AWS (Amazon Web Services) is Amazon's cloud platform, offering a broader range of services. Azure emphasizes seamless hybrid deployments, while AWS is known for extensive scalability and market share. Both provide IaaS, PaaS, and SaaS, catering to different business needs.
+----------------
+
+Explain about the security with respect to cloud technology
+Data Encryption
+Identity and Access Management (IAM)
+Network Security
+Compliance and Auditing
+Physical Security
+Data Backup and Recovery
+Vendor Security
+Patch Management
+Incident Response and Monitoring
+Shared Responsibility Model
+-----------------
+
+What are the 3 types of deployment in cloud?
+Public Cloud
+Private Cloud
+Hybrid Cloud
+-----------------
+
+How a client and a server works?
+A client, like a web browser, sends requests to a server over a network (e.g., the internet). The server, a powerful computer, receives these requests, processes them, and provides the requested services or data. The server-side software manages data, executes tasks, and generates responses. Communication follows standardized protocols (e.g., HTTP), enabling seamless interaction and exchange of information between the client and server.
+---------------------
+
+How a partition occurs in the cloud?
+In cloud computing, partitioning involves dividing physical or virtual resources, like servers or databases, into smaller segments to optimize performance, scalability, and resource utilization. This ensures that different users or applications can operate independently within their designated partitions while sharing the same underlying infrastructure. Partitioning enhances security, isolates workloads, and helps prevent one user's activities from impacting others on the same cloud platform.
+-----------------
+
+Explain the 5 significance of Cloud technology
+1. Resource Scalability: Cloud technology enables instant scaling of computing resources, ensuring optimal performance and cost efficiency for varying workloads.
+
+2. Global Accessibility: Cloud-based services provide remote access to data and applications from anywhere, fostering collaboration and flexibility in modern work environments.
+
+3.Cost Efficiency: Businesses avoid high upfront investments by paying for cloud resources on-demand, reducing capital expenses and enabling predictable operational costs.
+
+4. Innovation Acceleration: Cloud platforms offer ready-to-use tools, APIs, and frameworks, expediting development and deployment of innovative applications and services.
+
+5. Robust Security: Cloud providers implement advanced security measures, including data encryption, access controls, and disaster recovery, bolstering data protection and compliance.
+----------------------------
